@@ -1,0 +1,42 @@
+#main{
+	border:3px solid;
+	padding:5px;
+	margin:10px;
+	background-color: #DCDCDC;
+
+}
+.heading{
+
+}
+.x{
+	background-color:grey;
+	border:5px solid;
+
+}
+.collapsed{
+	background-color: white;
+	border:2px solid;
+}
+.brand{
+	color:white;
+	font-weight:bold;
+	font-size:25px;
+}
+.y{
+	font-weight: bold;
+}
+
+
+
+#nav-list
+{
+	margin-top:10px;
+}
+#nav-list a{
+	text-align:center;
+	color:black
+}
+#nav-list a:hover{
+	background-color:white;
+	
+}
